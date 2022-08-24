@@ -1,6 +1,5 @@
-![MovieMaster](./public/assets/popcorn.png)
-
-# MovieMaster - search your favorite movies and add them to your watch list
+# MovieMaster  ![MovieMaster](./public/assets/popcorn.png)
+## Search and manage your favorite movies
 
 Movie Master is a search engine used to find movies by name using OMDb API.
 and save them to your watch list, data is stored locally.
