@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieMaster/static/css/main.d76f1d58.css",
+    "main.js": "/MovieMaster/static/js/main.d8a56300.js",
+    "index.html": "/MovieMaster/index.html",
+    "main.d76f1d58.css.map": "/MovieMaster/static/css/main.d76f1d58.css.map",
+    "main.d8a56300.js.map": "/MovieMaster/static/js/main.d8a56300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76f1d58.css",
+    "static/js/main.d8a56300.js"
+  ]
+}
